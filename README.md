@@ -18,7 +18,7 @@ classes to learn Java, SQL, C, and Ive taught myself python because GV
 is switching to python and every class I take now expects me to know python 
 like I was taught it, but I also learned it because its useful to know.
 
-
+### Meme
 
 one meme that always gets me is the holy moly
 
