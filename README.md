@@ -8,7 +8,7 @@
 
 * I find generational algorithms very interesting and I know you have done some things with those because I think you came to the computing club and presented some of your reserch one time I was there.
 
-###Technical Background
+## Technical Background
 
 I am a Junior at Grand Valley and im set to graduate in the winter of 2024.
 I have taken classes to learn HTML5, CSS, SQL, and C# at a smaller college 
