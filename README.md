@@ -2,11 +2,11 @@
 
 # Kyle Fink
 
-*I like to build things, I was going into engineering but there was too much math for my liking in that degree so I switched to CS because its the same, just building things on a computer.
+* I like to build things, I was going into engineering but there was too much math for my liking in that degree so I switched to CS because its the same, just building things on a computer.
 
-*Ive been really into Disc Golf latley, my brother in law used to be the captin of the ultimate frisbee team here at GV and he got me into it. now I play at least twice every week with an old roommate and friends.
+* Ive been really into Disc Golf latley, my brother in law used to be the captin of the ultimate frisbee team here at GV and he got me into it. now I play at least twice every week with an old roommate and friends.
 
-*I find generational algorithms very interesting and I know you have done some things with those because I think you came to the computing club and presented some of your reserch one time I was there.
+* I find generational algorithms very interesting and I know you have done some things with those because I think you came to the computing club and presented some of your reserch one time I was there.
 
 ###Technical Background
 
